@@ -154,9 +154,9 @@ document.addEventListener("DOMContentLoaded", function() {
             <h2>Fuentes, artículos y videos para saber más</h2>
             <p>Aquí tienes algunas fuentes útiles para profundizar en el tema de la huella digital:</p>
             <ul>
-                <li><a href="https://www.ibm.com/mx-es/topics/digital-footprint">IBM - Huella digital</a></li>
-                <li><a href="https://liec.dgb.unam.mx/index.php/investiga/huella-digital">UNAM - Huella digital</a></li>
-                <li><a href="https://youtu.be/xMaajB6WXrA?si=iQ7pu1hBVEqdnDm4">YouTube - Huella Digital y Privacidad</a></li>
+                <li>IBM. (n.d.). Huella digital. En IBM. Recuperado de https://www.ibm.com/mx-es/topics/digital-footprint</li>
+                <li>UNAM. (n.d.). Huella digital. En UNAM. Recuperado de https://liec.dgb.unam.mx/index.php/investiga/huella-digital</li>
+                <li>Huella digital y privacidad [Video]. (2023, septiembre 15). YouTube. Recuperado de https://youtu.be/xMaajB6WXrA?si=iQ7pu1hBVEqdnDm4</li>
             </ul>
             <p>Envía otro número para conocer más sobre algo, o "MENU" para volver a ver el menú.</p>
         `));
